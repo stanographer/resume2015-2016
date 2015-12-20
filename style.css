@@ -135,6 +135,22 @@ section:last-child {
 	width: 72.5%;
 }
 
+.sectionContent a:link {
+	color: #cf8a05;
+  text-decoration: none;
+}
+
+.sectionContent a:visited {
+	text-decoration: none;
+	color: #cf8a05;
+
+}
+.sectionContent:a:hover {
+	text-decoration: underline;
+	color: #DD127B;
+
+}
+
 .sectionTitle h1 {
 	font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
